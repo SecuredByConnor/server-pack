@@ -1,0 +1,8 @@
+name = "bclib-26.302.1"
+filename = "bclib-26.302.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BgNRHReB/versions/6QI6JObW/bclib-26.302.1.jar"
+hash-format = "sha512"
+hash = "908da9a122e399b585860c93dcca07860af62e18f5e9e1257720c43dc555f268d76d2bb762c9d283612296b555ef8e436dc9410a289b6cf1ad3b931c82badfaa"

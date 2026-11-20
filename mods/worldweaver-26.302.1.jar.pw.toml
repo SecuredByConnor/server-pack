@@ -1,0 +1,8 @@
+name = "worldweaver-26.302.1"
+filename = "worldweaver-26.302.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RiN8rDVs/versions/Vv5f9mYh/worldweaver-26.302.1.jar"
+hash-format = "sha512"
+hash = "733beed8eba10a8233a577ea582c3bfe4d6e73c324d84153be4d62a79fb91f7d35cc28ef79af7d3c098569d402b0bd5cd2cbe467199b56754ba9b7d0f1d2c2d4"

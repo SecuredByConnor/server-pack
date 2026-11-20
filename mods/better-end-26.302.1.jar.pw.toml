@@ -1,0 +1,8 @@
+name = "better-end-26.302.1"
+filename = "better-end-26.302.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gc8OEnCC/versions/o5kyaTJb/better-end-26.302.1.jar"
+hash-format = "sha512"
+hash = "55af9b97ec0a8e1365c9ba1be39acc866bc8125bf85efd2fcbdb89a780b30346ff33840461b5c978afebbc34110256063c4925f311c8417db6134ec92b87a865"
