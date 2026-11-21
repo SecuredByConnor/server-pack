@@ -1,0 +1,8 @@
+name = "boss_checklist-5.3.1"
+filename = "boss_checklist-5.3.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/z1Dv56jq/versions/HHkbPPrr/boss_checklist-5.3.1.jar"
+hash-format = "sha512"
+hash = "a8e0023fd00c3afb63e309e9ec4a6319b4952fe6ee29272bb8c4ad910c935029829941a688b65dcbb669ecefd6dc6f004a3903572c16406dff8f123c81770717"

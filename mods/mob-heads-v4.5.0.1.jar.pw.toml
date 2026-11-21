@@ -1,0 +1,8 @@
+name = "mob-heads-v4.5.0.1"
+filename = "mob-heads-v4.5.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/82uI0waE/versions/kXYabTzl/mob-heads-v4.5.0.1.jar"
+hash-format = "sha512"
+hash = "7a7e03bd57a4ad0c471c566df4fc8fd444a56b9523aec1537984fc6a220564ffe0caedec13a5a27a8884b19020a5cc2868601c471c166d839ac36b45ee627649"

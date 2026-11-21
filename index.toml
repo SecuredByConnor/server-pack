@@ -11,6 +11,11 @@ hash = "dcac7f1fe7768d2d9ab9f8a7a89f2fba7a588955b346b529b4ba3bddc32adb2e"
 metafile = true
 
 [[files]]
+file = "mods/architectury-fabric-22.0.6.jar.pw.toml"
+hash = "cab3eebdefdbb632bd0cffe57fac94c90c0d75592525aa30377565c4ee676e5c"
+metafile = true
+
+[[files]]
 file = "mods/armor_model_api-fabric-1.1.2+26.3.jar.pw.toml"
 hash = "d710af55767d5f3b60061fac5d54b954acf85e48222bb99ec18bc91febdf4381"
 metafile = true
@@ -26,6 +31,11 @@ hash = "c35c030088404dcdd6bb5e511ab68e2e11ea1bcbd6382f919f399fb3461e6736"
 metafile = true
 
 [[files]]
+file = "mods/betterarcheology-fabric-26.3-1.3.9.jar.pw.toml"
+hash = "aed7049b0948ed6d478aee6a50f7a1cc2970a437999b444f5a0dd23770891f15"
+metafile = true
+
+[[files]]
 file = "mods/better-end-26.302.1.jar.pw.toml"
 hash = "19143c57e39b412489c3b94699ba26546e42eb954a6d665d6ff9fdcbdf47a810"
 metafile = true
@@ -33,6 +43,11 @@ metafile = true
 [[files]]
 file = "mods/better-nether-26.302.1.jar.pw.toml"
 hash = "24cc58d7cb4bec9884415a11d19f8d751a9ecb5a34fd7d28d6e126ca92b12771"
+metafile = true
+
+[[files]]
+file = "mods/boss_checklist-5.3.1.jar.pw.toml"
+hash = "5f825042bee3e2bd843c3a3d75ac7e6a83f0bf1b1faa78f94cdde97f2933ffca"
 metafile = true
 
 [[files]]
@@ -106,6 +121,11 @@ hash = "34b936eb8fe082b678d4200abcdc095f42398fb890b9e91996c23b3ce2ee8f4a"
 metafile = true
 
 [[files]]
+file = "mods/gatewayofdoom-fabric-26.3-2.3.7.jar.pw.toml"
+hash = "cf95fd066f959b19530bd56f19291014b32c309e8c2d4d6c48912fd8d0c4e2b7"
+metafile = true
+
+[[files]]
 file = "mods/GlitchCore-fabric-26.3-26.3.0.0.5.jar.pw.toml"
 hash = "ac68d752846384c0841efad9b5b1deec2ead8e30f9b6cd2fd63c2f7d58c14b4f"
 metafile = true
@@ -136,6 +156,11 @@ hash = "d9d3a6403e6dfc135637e1910651d6cb0edcdac8e18ea440e45cdd1e955058b4"
 metafile = true
 
 [[files]]
+file = "mods/lib-5555ff-v1.3.4.jar.pw.toml"
+hash = "8a2acb73aa9a47d8bff1488b486a232191cccfc7ba4cece641499f60268b8dd9"
+metafile = true
+
+[[files]]
 file = "mods/libIPN-fabric-26.3-6.9.0.jar.pw.toml"
 hash = "b52730a4472d275de3776d80e2a7ad343bd0bc968fb6544c6f61def7d55b51a7"
 metafile = true
@@ -163,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/mezz_config-26.3-fabric-0.6.10.jar.pw.toml"
 hash = "5b6cca4594fb833c0f30d413198bb805ba8e87d1d0285c84de70ea1bc4993067"
+metafile = true
+
+[[files]]
+file = "mods/mob-heads-v4.5.0.1.jar.pw.toml"
+hash = "8748514ea785f0f612314fad6161a12111e3053a8318c68f64e178ae48c8df3f"
 metafile = true
 
 [[files]]
@@ -208,6 +238,16 @@ metafile = true
 [[files]]
 file = "mods/ranged_weapon_api-fabric-4.0.0+26.3.jar.pw.toml"
 hash = "c3e3d1108bcf4727252d877e208dd3d9fffe2ae4b6003e7bba5f2aed437e7bc2"
+metafile = true
+
+[[files]]
+file = "mods/relics-fabric-1.4.1+26.3.jar.pw.toml"
+hash = "170a5e2692377419d44ee202d80f82bf0cc0f29acffabdf3b06045ed459ccb22"
+metafile = true
+
+[[files]]
+file = "mods/ResourcefulConfig-6.0.2.jar.pw.toml"
+hash = "bcb832451c424835d77993935f5de22b4f743e062f2b84ed57793dd99ba6d19d"
 metafile = true
 
 [[files]]
@@ -493,5 +533,5 @@ hash = "8adc9fb33aecf60d89d521063c4c4c51c0acad31a427456a17f4f4e40214147d"
 
 [[files]]
 file = "config/litematica.json"
-hash = "592807287cfe3bde19dac4c461ea81d7c7b1c36a243fac2b10169a1f1859edbe"
+hash = "f3c628824cc8fc0e375ccb6d1f5bceda4d22232adf70872415dbeeae066312eb"
 preserve = true

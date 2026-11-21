@@ -1,0 +1,8 @@
+name = "gatewayofdoom-fabric-26.3-2.3.7"
+filename = "gatewayofdoom-fabric-26.3-2.3.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Z7xAH01M/versions/KyEqKAWW/gatewayofdoom-fabric-26.3-2.3.7.jar"
+hash-format = "sha512"
+hash = "9f6cbd4171e2593c408c45ac8969fd66ab8bc0854bcae02a717fc3ae98844d2554be673bdc6c6010b06bb908666971df9f30a93802aca7ac9f069e1a204b1453"

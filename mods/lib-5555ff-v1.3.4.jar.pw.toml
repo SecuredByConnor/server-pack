@@ -1,0 +1,8 @@
+name = "lib-5555ff-v1.3.4"
+filename = "lib-5555ff-v1.3.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Lr1LVAwO/versions/Q4crkbl6/lib-5555ff-v1.3.4.jar"
+hash-format = "sha512"
+hash = "16b865a8b16eccac5026df29c5f3536cb8dfb2b092b80455e57bdc90d309764203a7828fb0b40a00881e7b1b4c1f7174e0a06a19726c0eb258bbe9a6f629d517"

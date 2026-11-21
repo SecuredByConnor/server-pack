@@ -45,5 +45,8 @@
     "rerenderSchematic": {
       "keys": "F3,APOSTROPHE"
     }
+  },
+  "Visuals": {
+    "schematicOverlayTypeExtra": false
   }
 }
