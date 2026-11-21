@@ -1,0 +1,19 @@
+{
+  "Hotkeys": {
+    "openGuiMainMenu": "'",
+    "addSelectionBox": "',A",
+    "layerModeNext": "',PAGE_UP",
+    "layerModePrevious": "',PAGE_DOWN",
+    "openGuiMaterialList": "',L",
+    "openGuiSchematicPlacements": "',P",
+    "openGuiSchematicVerifier": "',V",
+    "openGuiSelectionManager": "',S",
+    "openGuiSettings": "',C",
+    "pickBlockToggle": "',MOUSE_MIDDLE",
+    "selectionModeCycle": "LEFT_CONTROL,'",
+    "toggleAllRendering": "',R",
+    "toggleSchematicRendering": "',G",
+    "toolEnabledToggle": "',T",
+    "rerenderSchematic": "F3,'"
+  }
+}

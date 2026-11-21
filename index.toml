@@ -474,3 +474,8 @@ hash = "8b8e8f770af9f49293d715ba162ed36b6b1192aadc6feedea2d3fffd157c93f2"
 [[files]]
 file = "schematics/LakesideHouse/house_12_bedrooms_study_en_suite_and_trophy_room.litematic"
 hash = "e5f0b0da3f32af0e10f841f7e1885a9e2b0cc4266b52a8d0034951bfcdb54d6c"
+
+[[files]]
+file = "config/litematica.json"
+hash = "21b363f7cba6d9ac29726f49b9985cc869bd4008d31a379cb80c32e17730e55d"
+preserve = true
