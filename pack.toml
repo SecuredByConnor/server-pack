@@ -1,12 +1,12 @@
 name = "Connor's Server Pack"
 author = "Connor"
-version = "2026.11.13.2050"
+version = "2026.11.21.1203"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5773a76891d6ceea540a43b2d7031e0f79805dee78c29d7e977382ff7d50a67e"
+hash = "a3da400ea3be3f46aa5455b361b69b17467113b71440cfb1d2a50919eae04222"
 
 [versions]
 minecraft = "26.3"

@@ -141,8 +141,18 @@ hash = "b52730a4472d275de3776d80e2a7ad343bd0bc968fb6544c6f61def7d55b51a7"
 metafile = true
 
 [[files]]
+file = "mods/litematica-fabric-26.3-0.29.1.jar.pw.toml"
+hash = "c0fb4878ebc54c21a41b39a0b804ca99606653619e678b1fc4dbdd5367aadeec"
+metafile = true
+
+[[files]]
 file = "mods/lootr-fabric-26.3-1.25.42.124.jar.pw.toml"
 hash = "37683b60aec469d2cafa8a719869a24ad78a2ea6b96bef62ba754042b76da20e"
+metafile = true
+
+[[files]]
+file = "mods/malilib-fabric-26.3-0.30.2.jar.pw.toml"
+hash = "31964b2ff39abcf4d455b045ce6934f210798a3d4516c5c67b2199ef98e8ff02"
 metafile = true
 
 [[files]]
@@ -344,3 +354,123 @@ metafile = true
 file = "shaderpacks/ComplementaryUnbound_r5.9.3.zip.pw.toml"
 hash = "fde2dff1303e44270fd2bde94796d187126e6f96c93b814ee0a32bfe87bcd991"
 metafile = true
+
+[[files]]
+file = "schematics/DamAndWaterMill/dam_00_whole_build.litematic"
+hash = "5c2a51849af91d690a50194dab858081fe86f407dd4ef0fcef76d07c5781736d"
+
+[[files]]
+file = "schematics/DamAndWaterMill/dam_01_footings.litematic"
+hash = "7852563d0a2323ca3302e4f7f7432851236f3c25889e7c8607141c1430472303"
+
+[[files]]
+file = "schematics/DamAndWaterMill/dam_02_lower_wall.litematic"
+hash = "25c15db20135261046ddb6709fd37aa7306f329c05ae0ecf2ddfabc0995f2562"
+
+[[files]]
+file = "schematics/DamAndWaterMill/dam_03_upper_wall_and_spillway_notch.litematic"
+hash = "91955d978d4c57185329fe471e6cec5fbf9bcbf1d7999331ef7142eae6a643af"
+
+[[files]]
+file = "schematics/DamAndWaterMill/dam_04_walkway_railings_and_lanterns.litematic"
+hash = "f3c4c9582a0ccc4163b1f72fcfaf9196891ee2ffb66862f6b4dc935ac79bd358"
+
+[[files]]
+file = "schematics/DamAndWaterMill/dam_05_spillway_and_lake.litematic"
+hash = "f24d52063a499cb7c8794d94a333311ebc61c3c2b19024d4a0be3bc675afc7cb"
+
+[[files]]
+file = "schematics/DamAndWaterMill/dam_06_mill_house_walls.litematic"
+hash = "6590b19993de834c4dc9fb0373cda19624b3a2841cf87969ba97dc5172d095b9"
+
+[[files]]
+file = "schematics/DamAndWaterMill/dam_07_mill_roof.litematic"
+hash = "db8a8c2eacdc9bcb2191571016759224f99a923f52e7ac4ccb4a9e5cf7e98f4c"
+
+[[files]]
+file = "schematics/DamAndWaterMill/dam_08_water_wheel.litematic"
+hash = "609c42a392196f7137b3670ff39920683e11ca2abc9bc5d79063e64211b96c06"
+
+[[files]]
+file = "schematics/FarmComplex/farm_00_whole_build.litematic"
+hash = "8ed514b88d5de733b7ee6392024cce09d893be96b8a843278f82e8c41a2c2451"
+
+[[files]]
+file = "schematics/FarmComplex/farm_01_crop_fields.litematic"
+hash = "6e906aa84a824e998a4fe2789bcb4cd9805b8593b3e0d2741f200ecaf41abd21"
+
+[[files]]
+file = "schematics/FarmComplex/farm_02_barn_floor_and_walls.litematic"
+hash = "bddd73084152d9c042716c3eedad1b28f03820a1a4396ca6405febd95e1541fa"
+
+[[files]]
+file = "schematics/FarmComplex/farm_03_barn_roof.litematic"
+hash = "e559445c18317e2ce61a5c1f9a41557c0c125a37ab05aebe4b4c0a97c2c2c43f"
+
+[[files]]
+file = "schematics/FarmComplex/farm_04_animal_pens.litematic"
+hash = "4499b6c25180b6aa328b5ccee3aa713e9119c1bac064ac2f36d7c686ce992a18"
+
+[[files]]
+file = "schematics/FarmComplex/farm_05_ladder_shaft_down.litematic"
+hash = "f9953828cdebd9798a88c985de36e60dc9c733d817c9a4f1e0ea880cd7e836ad"
+
+[[files]]
+file = "schematics/FarmComplex/farm_06_underground_winter_farm.litematic"
+hash = "5dec089094d11cd6b4e722d4ff49de004b755fa27d97739210f635c2a437bc44"
+
+[[files]]
+file = "schematics/FarmComplex/farm_07_barn_storage_and_compost.litematic"
+hash = "f1cc0699b3936d9cef89dd9bee73aa48af3734789a3733d21af3c4495d1fb188"
+
+[[files]]
+file = "schematics/LakesideHouse/house_00_whole_build.litematic"
+hash = "02af917fd2d76a8b8115a738b6e80535d97c01e306eef6887633835aae95ee6c"
+
+[[files]]
+file = "schematics/LakesideHouse/house_01_ground_slab_pond_and_deck.litematic"
+hash = "a51635236e5da9f7cda79c7de9ad8f5a3b04ace4d6842dda8295a7f3a35d063c"
+
+[[files]]
+file = "schematics/LakesideHouse/house_02_ground_floor_walls.litematic"
+hash = "3c20c070711182ecdc01a03c4a5319189b088bbabac420193fbb01513caf691e"
+
+[[files]]
+file = "schematics/LakesideHouse/house_03_ground_floor_rooms.litematic"
+hash = "afbfd533edcb6f78ab2427660b9ed7c361dd9d7605b3aecfdcc951f4445d861f"
+
+[[files]]
+file = "schematics/LakesideHouse/house_04_first_floor.litematic"
+hash = "5b282273fd1f74bc10523ef287ee3fa7cdf7f74f50063a2ab4d52e79950fe839"
+
+[[files]]
+file = "schematics/LakesideHouse/house_05_first_floor_walls.litematic"
+hash = "b30bd978bd9f591ee446d37659b4ade23bee9dbc3f05d2331b45ba604e2b1f36"
+
+[[files]]
+file = "schematics/LakesideHouse/house_06_upstairs_rooms.litematic"
+hash = "f6a22380bd31376bf293f1f5559e87c55e35b259567b0eb05ddc9e427a3d65d7"
+
+[[files]]
+file = "schematics/LakesideHouse/house_07_roof_and_greenhouse_beds.litematic"
+hash = "5d046b819f0b946eda77197667eb334424c943a2c8ffb259d49951bb3de387bf"
+
+[[files]]
+file = "schematics/LakesideHouse/house_08_greenhouse.litematic"
+hash = "e713ac4a8367cbb09278e1f90fafab29d6b4af22699c5f7d93b6c2d5a3fbd66c"
+
+[[files]]
+file = "schematics/LakesideHouse/house_09_stairs_and_lighting.litematic"
+hash = "4009f04458baabf3b2a07df0fb613d1d8148fe250d39097dd2aa81e33bd4f004"
+
+[[files]]
+file = "schematics/LakesideHouse/house_10_lounge_and_kitchen.litematic"
+hash = "8add76488452e29e7fb74efc272b398b752df231f9d93d1a9258f6927e848733"
+
+[[files]]
+file = "schematics/LakesideHouse/house_11_hall_storage_room_and_armoury.litematic"
+hash = "8b8e8f770af9f49293d715ba162ed36b6b1192aadc6feedea2d3fffd157c93f2"
+
+[[files]]
+file = "schematics/LakesideHouse/house_12_bedrooms_study_en_suite_and_trophy_room.litematic"
+hash = "e5f0b0da3f32af0e10f841f7e1885a9e2b0cc4266b52a8d0034951bfcdb54d6c"
