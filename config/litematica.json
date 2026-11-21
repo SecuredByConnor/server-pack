@@ -1,19 +1,49 @@
 {
   "Hotkeys": {
-    "openGuiMainMenu": "'",
-    "addSelectionBox": "',A",
-    "layerModeNext": "',PAGE_UP",
-    "layerModePrevious": "',PAGE_DOWN",
-    "openGuiMaterialList": "',L",
-    "openGuiSchematicPlacements": "',P",
-    "openGuiSchematicVerifier": "',V",
-    "openGuiSelectionManager": "',S",
-    "openGuiSettings": "',C",
-    "pickBlockToggle": "',MOUSE_MIDDLE",
-    "selectionModeCycle": "LEFT_CONTROL,'",
-    "toggleAllRendering": "',R",
-    "toggleSchematicRendering": "',G",
-    "toolEnabledToggle": "',T",
-    "rerenderSchematic": "F3,'"
+    "openGuiMainMenu": {
+      "keys": "APOSTROPHE"
+    },
+    "addSelectionBox": {
+      "keys": "APOSTROPHE,A"
+    },
+    "layerModeNext": {
+      "keys": "APOSTROPHE,PAGE_UP"
+    },
+    "layerModePrevious": {
+      "keys": "APOSTROPHE,PAGE_DOWN"
+    },
+    "openGuiMaterialList": {
+      "keys": "APOSTROPHE,L"
+    },
+    "openGuiSchematicPlacements": {
+      "keys": "APOSTROPHE,P"
+    },
+    "openGuiSchematicVerifier": {
+      "keys": "APOSTROPHE,V"
+    },
+    "openGuiSelectionManager": {
+      "keys": "APOSTROPHE,S"
+    },
+    "openGuiSettings": {
+      "keys": "APOSTROPHE,C"
+    },
+    "pickBlockToggle": {
+      "keys": "APOSTROPHE,MOUSE_MIDDLE"
+    },
+    "selectionModeCycle": {
+      "keys": "LEFT_CONTROL,APOSTROPHE"
+    },
+    "toggleAllRendering": {
+      "keys": "APOSTROPHE,R"
+    },
+    "toggleSchematicRendering": {
+      "keys": "APOSTROPHE,G"
+    },
+    "toolEnabledToggle": {
+      "keys": "APOSTROPHE,T"
+    },
+    "rerenderSchematic": {
+      "keys": "F3,APOSTROPHE"
+    }
   }
 }
