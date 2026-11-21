@@ -357,139 +357,139 @@ metafile = true
 
 [[files]]
 file = "schematics/DamAndWaterMill/dam_00_whole_build.litematic"
-hash = "91cc2fd21d09edcfefe414a790d163e6dc23e8109e813e95132ae8d532d6e490"
+hash = "25e3ffa639270192dc07c5fd4b5e20488112f36f7262a32f4a7cdb1f692c128e"
 
 [[files]]
 file = "schematics/DamAndWaterMill/dam_01_footings.litematic"
-hash = "25bf05e2641ba94c9c4430a8fc3175d4ed3f3ebbc975a730fe65f0ea7e6eb63c"
+hash = "4d1fcb7fda45c24a92315b32dcfa77c56b1025e5b599dd2118b4a816b751b6e3"
 
 [[files]]
 file = "schematics/DamAndWaterMill/dam_02_lower_wall.litematic"
-hash = "a61ef1b284f550405d98e232a1ac559a611d896b04123c35225195f40aceca0b"
+hash = "70c8a54f380cd1b246b499addb15b5bd4f66242f278c052211682a8418051ba8"
 
 [[files]]
 file = "schematics/DamAndWaterMill/dam_03_upper_wall_and_spillway_notch.litematic"
-hash = "930a3c8e901183c0fc625342e1dc2f86440e04bad99c5b87db3b3d1afb9fbe65"
+hash = "e278595bc6d136d55201e6292e338418115ad8fb1fd37f2a9dd2da1fc60b2bda"
 
 [[files]]
 file = "schematics/DamAndWaterMill/dam_04_walkway_railings_and_lanterns.litematic"
-hash = "c2a32c2733a9ce2a7786b7791c5b92866d3fd13f3504157001c720bb385236f8"
+hash = "78edec4195a0e91b8480ca0ba1966231e8861f970aff0cc157967ce595ddfadd"
 
 [[files]]
 file = "schematics/DamAndWaterMill/dam_05_spillway_and_lake.litematic"
-hash = "6e0b3c6374b9d07f234a02e811db158564cbe9de904947d2bd7f8c0fb1fa4e73"
+hash = "71c2403830c7139e6398a163d7b71b0f80e34cce226df152ebc5c23e14baaf93"
 
 [[files]]
 file = "schematics/DamAndWaterMill/dam_06_mill_house_walls.litematic"
-hash = "34debf160504e07328b059d8caa9ea7989c38783ff1eaa8f7f1742afb13446e1"
+hash = "81c8b9b03487dc285755f24180154802916d5611754474dd74890ac750996851"
 
 [[files]]
 file = "schematics/DamAndWaterMill/dam_07_mill_roof.litematic"
-hash = "13d1d1a9de96b50184ebadb3f347cf8b2e482adddcac104f03dee4472a26c8e3"
+hash = "0bf107d1cd9b84049e73f03f46e19dbab36a6bc2c7ed38b4c9c0b96edea19a3a"
 
 [[files]]
 file = "schematics/DamAndWaterMill/dam_08_water_wheel.litematic"
-hash = "d0164213e253a62eb478b4c56e4fdfb7a6f26b830d46e94858e67c5dde4008ed"
+hash = "d463be9199adb3d13c3a51f164e8e67126cd59dce7c395786d3042fbf64f144b"
 
 [[files]]
 file = "schematics/LakeBridge/bridge_00_whole_build.litematic"
-hash = "f29932f26f8518c6173dafcea1d18bb9e26b8af241cb00973d6ce9fb17b5f425"
+hash = "ecf0c042e3f8399cdfc051555adcf23ad94b14598bdfd998f88725d776782843"
 
 [[files]]
 file = "schematics/LakeBridge/bridge_01_tower_piers.litematic"
-hash = "d5beb458205098d55924adc77131275915c86cfae7171d3eddab45ab6260f9e3"
+hash = "4bcce2147c4fcb01648ecaa5b55f2162242880eb608c8370998eddbf4204b78a"
 
 [[files]]
 file = "schematics/LakeBridge/bridge_02_west_tower_house_side.litematic"
-hash = "27f0d781360971277e5a5ee76f9050b9f3a0eb5ae8122cf5386e54edb05ccd4f"
+hash = "cbbbb1e0c0831757324fd36309f1b287263805e40f228e3d178618b0360497c5"
 
 [[files]]
 file = "schematics/LakeBridge/bridge_03_east_tower_town_side.litematic"
-hash = "5ba4d3e87de6dfeefa08c2b7437c80308fe267e3430063436f7060c706354a22"
+hash = "26f730e025ee278b841830f9cbd931fa6bd61f9432d68944a6039ac45a289540"
 
 [[files]]
 file = "schematics/LakeBridge/bridge_04_deck_house_half.litematic"
-hash = "d4833a9008fecff2712358c78c95ae0c37cf63a2a74255b4658bb8827306a6b8"
+hash = "675007eede30b468ed9e32aab03c7ca8f588f2f9100d23f024d21bdc3933dc2d"
 
 [[files]]
 file = "schematics/LakeBridge/bridge_05_deck_town_half.litematic"
-hash = "dae53e2129419ebdba6cc0b53b294ba92174d51b7857d5d67b4c36b6906f00f1"
+hash = "ab7457b419e360d4b48cf8accefe2dc013cafd863f450e2661dd1cea58a2dc65"
 
 [[files]]
 file = "schematics/LakeBridge/bridge_06_anchors_and_ramps.litematic"
-hash = "407be582d39189411e0230382e34255582e7c53451fed72a4114000ca276575d"
+hash = "07f1ab24d6288431e97f8cda8d8741ebf424c2c5add8a591b1c12396808a4557"
 
 [[files]]
 file = "schematics/LakeBridge/bridge_07_main_cables.litematic"
-hash = "93de50fdbb5800cdd8ab12658a61fcf97cfe1478258ad71ef03780ad421657b8"
+hash = "40129cc0879727cb47f4cda8120386911cb7ef068f7a0d2e2fe9dc4e18f391d1"
 
 [[files]]
 file = "schematics/LakeBridge/bridge_08_hangers.litematic"
-hash = "aa3db26264e5cceda23ab7580755f962fb960ced5d774ff91b203288c3496bdc"
+hash = "8284654598c77c6d42eb254d4549a4be95b93a2d284e6baccf8509774af61ba5"
 
 [[files]]
 file = "schematics/LakeBridge/bridge_09_glass_rails_lights_and_glass_floor.litematic"
-hash = "c9cf80a818a100ab227d694f8b0db01a61fdaaa8253b5817875338d2b15a467e"
+hash = "042d9cfbbbe932dfef11957452ce797cd4a2e31a927bbbe8389e6f3968d55bc1"
 
 [[files]]
 file = "schematics/LakeBridge/bridge_10_tower_balconies.litematic"
-hash = "0d3990f7f7558ecd6dbb24f3220975837aea6f0e9e2560526349b06d395d7c69"
+hash = "cf466b587b2818bc028550e80950045189a32da6eb3cc04e4efab1629d464768"
 
 [[files]]
-file = "schematics/LakeBridge/bridge_11_town_pavilion_and_waystone.litematic"
-hash = "c17a3f37f90fa10577dfa42cd2178894922a08cc4018854096b6f49f0d33d427"
+file = "schematics/LakeBridge/bridge_11_glass_pavilion_and_waystone.litematic"
+hash = "d3c2e5674ed944370e9e25dff8f16a2ea0c84deced6e90764f4fa442225d9963"
 
 [[files]]
 file = "schematics/LakesideHouse/house_00_whole_build.litematic"
-hash = "d9dd761bc3910f2670d0fe637c82db7cf630d795a1a3e43a5d2e9350e2ac0425"
+hash = "91eb54ab52d4bce3dc29277d76667448e7f743b7b0e916fe269a585720d5ae58"
 
 [[files]]
 file = "schematics/LakesideHouse/house_01_ground_slab_pond_and_deck.litematic"
-hash = "ede2b9854d4b6072f276729e5035fbb33b01312d514ec2fc96df7060981cbde2"
+hash = "519cffe21715fb13467d97782f5633c6a3246d42d4225c1ef0e1533e7dfb9536"
 
 [[files]]
 file = "schematics/LakesideHouse/house_02_ground_floor_walls.litematic"
-hash = "31674559bf905040233231e9197fdd13fabb7ec93708b34854133f56b61936cd"
+hash = "763fcf19b122237a120c9a1db796505965ae41a7c07d5b720a1b04947ddce792"
 
 [[files]]
 file = "schematics/LakesideHouse/house_03_ground_floor_rooms.litematic"
-hash = "ada98e4b956b0fcf8fc3a2ce7785beed1409d60785ced5b52d53cc0279237320"
+hash = "f37a16025441de337e5b59f7ce41f6fc0992ca05e32ef3a4ec9e1bac3ff3f40d"
 
 [[files]]
 file = "schematics/LakesideHouse/house_04_first_floor.litematic"
-hash = "13b896868774a4bd867b40deced043d35cce083b19b28b4d7532e9068b40eaea"
+hash = "e4bcf68d5ec4008a463f7462f043303fca2c3c43ec8847ca33c1f11d76ba860c"
 
 [[files]]
 file = "schematics/LakesideHouse/house_05_first_floor_walls.litematic"
-hash = "d1ee68a6079c5579a4a70ad134d602dd170261886f3d4ec6ac812042356e386b"
+hash = "ae58013fccab5a9920eb949bbc65b354524220f4453fa628dd88518a9bab25d4"
 
 [[files]]
 file = "schematics/LakesideHouse/house_06_upstairs_rooms.litematic"
-hash = "2f5d9a077090b62f63c59ee9bda7d3b1138b9013d8e8c670689a8824aff7d80c"
+hash = "e91aa5a58dca1f830c4934556c163fc2968598a8800a29bf575ee5c1d00ff0dc"
 
 [[files]]
 file = "schematics/LakesideHouse/house_07_roof_and_greenhouse_beds.litematic"
-hash = "973b4c1ca8555bcf6572deb4e063a5f15652f49ecf8baa23f9f7a0c707b5d6d6"
+hash = "c2e73e9d825e0670d298fc3622091d6cf856501be1a23aeffa5963ec0b26dd06"
 
 [[files]]
 file = "schematics/LakesideHouse/house_08_greenhouse.litematic"
-hash = "06b027a2b2e7969303850960a450917ce866bc6d25fdb12121c2587b0dc8c31f"
+hash = "a9fa499630bc54a6df5e289ade71d46bfcb16c4ddb1e2aa785147f5208109e3e"
 
 [[files]]
 file = "schematics/LakesideHouse/house_09_stairs_and_lighting.litematic"
-hash = "51c91d82c25ffced2705aebc11d42ef60e67aafb8477da7d16678ebc11828564"
+hash = "df30a957c4b07f7c5a028e2783c36a9e8a89d4a9356982c4be6453e6df8f9dc0"
 
 [[files]]
 file = "schematics/LakesideHouse/house_10_lounge_and_kitchen.litematic"
-hash = "909882e8189c013feeb996847704f8f6f3ff866eeca977ce430e570bee51452b"
+hash = "4c38a746068a3d1ee32156dda94495611927442ecf4fca84dd96d1edd5e0a1d5"
 
 [[files]]
 file = "schematics/LakesideHouse/house_11_hall_storage_room_and_armoury.litematic"
-hash = "d556f9783f70d505ba8f698ec2bb7fbb65fac6a085632b6f45dabdf4c019e060"
+hash = "cbe097a1195ed451e8638b9315704845da41aecc729065fff8c9b48aed0871f9"
 
 [[files]]
 file = "schematics/LakesideHouse/house_12_bedrooms_study_en_suite_and_trophy_room.litematic"
-hash = "5656b6376fbab9d02cc016f2ff0a6b1e6c3b47b999e588dff45e73dccc4b0fb7"
+hash = "8adc9fb33aecf60d89d521063c4c4c51c0acad31a427456a17f4f4e40214147d"
 
 [[files]]
 file = "config/litematica.json"
