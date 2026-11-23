@@ -21,6 +21,16 @@ hash = "d710af55767d5f3b60061fac5d54b954acf85e48222bb99ec18bc91febdf4381"
 metafile = true
 
 [[files]]
+file = "mods/atmosfera-2.7.4+mc26.3.jar.pw.toml"
+hash = "14ad994dd34d648ea7dfc649c321142078405afa873545b2141bbfeeeb5bd6cd"
+metafile = true
+
+[[files]]
+file = "mods/baguettelib-26.3-Fabric-2.0.8.jar.pw.toml"
+hash = "a8ab410affedf6109a71c32762b1525584c22a9039b63137b9ee664b5af1e91a"
+metafile = true
+
+[[files]]
 file = "mods/balm-fabric-26.3-26.3.0.3.jar.pw.toml"
 hash = "14573c7774aedc66e4a54cf656b9bf551ddd98ac67534112609e8a88f712f1f1"
 metafile = true
@@ -126,8 +136,18 @@ hash = "cf95fd066f959b19530bd56f19291014b32c309e8c2d4d6c48912fd8d0c4e2b7"
 metafile = true
 
 [[files]]
+file = "mods/geckolib-fabric-26.3-5.5.7.jar.pw.toml"
+hash = "89bdedf17946d3dc3ed461d182fef7321e8d4d33f0cb463840a3b5c5cdb152c9"
+metafile = true
+
+[[files]]
 file = "mods/GlitchCore-fabric-26.3-26.3.0.0.5.jar.pw.toml"
 hash = "ac68d752846384c0841efad9b5b1deec2ead8e30f9b6cd2fd63c2f7d58c14b4f"
+metafile = true
+
+[[files]]
+file = "mods/graveyard-FABRIC-4.0.0+mc26.3.jar.pw.toml"
+hash = "04ee059c045a5e0c900fd77eda69ac7ce840b48616cd4442326033ff0d8b8ff5"
 metafile = true
 
 [[files]]
@@ -206,6 +226,16 @@ hash = "9eceda72cff12ee49ec3f3fb21c2e195a6e3f3064010e40974d3645647bafdbd"
 metafile = true
 
 [[files]]
+file = "mods/mru-1.0.45+26.3-fabric.jar.pw.toml"
+hash = "09b7948a2249ba64032a22befa9b54ca55392ba8fb3c4af47167f5f0cec99093"
+metafile = true
+
+[[files]]
+file = "mods/mutantmonsters-v26.3.1-mc26.3.x+fabric.jar.pw.toml"
+hash = "5487ee04aba39dedd73f4ddc857e062d54631645c9ca9007c9c1632745dca9a8"
+metafile = true
+
+[[files]]
 file = "mods/naturalist-2.0.7-fabric-26.3.jar.pw.toml"
 hash = "8677231a10e3229217750a6b717a2e3945318a09aa8d30a5e3d6233200e4f7de"
 metafile = true
@@ -226,6 +256,11 @@ hash = "90e3cbc1dcf4a221a7dc97e3e00e01ad1fef6e012a17ed7de1d8beaa441dee16"
 metafile = true
 
 [[files]]
+file = "mods/particular-26.3-Fabric-1.6.1.jar.pw.toml"
+hash = "11b8999eccde7a56684059ba6cf68188811659bfe7b0d959e38613be06a110a0"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api-3.2.0+26.3.jar.pw.toml"
 hash = "0ea1bdd8f288907fa275ffee3edffd6ca68b7df23cdff870be3cb4575f536a36"
 metafile = true
@@ -233,6 +268,16 @@ metafile = true
 [[files]]
 file = "mods/PlayerAnimationLibMerged-1.2.8+mc.26.3.jar.pw.toml"
 hash = "c17d564b820ac8d6de97abd5780bfc11e2706d4f1fe07cdbaefa519d50243b07"
+metafile = true
+
+[[files]]
+file = "mods/PresenceFootsteps-1.14.1+26.3.jar.pw.toml"
+hash = "ab8fdb1101175a63af42a849431bca572aa96f98644a926cc42b3cd41c5c70a1"
+metafile = true
+
+[[files]]
+file = "mods/puzzleslib-v26.3.18-mc26.3.x+fabric.jar.pw.toml"
+hash = "4823e67f418cc10e93465b2f9a9108df9472e188ef9a24b125f90fd737ea5106"
 metafile = true
 
 [[files]]
@@ -286,6 +331,16 @@ hash = "95afcd13ce17f58d027ce86d54fbfb094669d7c6d2387777c4432dae0bf88bc8"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered-fabric-1.5.4+26.3.jar.pw.toml"
+hash = "5d807efd3e7216f427b03937d426524afc1081f06d9075907e69e8599da7e0c6"
+metafile = true
+
+[[files]]
+file = "mods/sounds-2.6.0+26.3-fabric.jar.pw.toml"
+hash = "2e3cfe4c95c868f8832a7e6d828f2a1bc83bad76c16ae869414493c0c8cfb49f"
+metafile = true
+
+[[files]]
 file = "mods/spell_engine-fabric-1.10.9+26.3.jar.pw.toml"
 hash = "1a1d87a4049050f8377637bc74c4e9ec9ee1fee673faea18bbb004bba4a224cf"
 metafile = true
@@ -336,6 +391,11 @@ hash = "f514afbb43ebf08b40f85392824c4a503c83739ae22f39b1836383a4715ce662"
 metafile = true
 
 [[files]]
+file = "mods/villagertradingplus-fabric-mc26.3-1.1.0.jar.pw.toml"
+hash = "34d711e6e7a0ac937539ebeabc7bad01b93fbb84f0222c6df940b436425ef35c"
+metafile = true
+
+[[files]]
 file = "mods/waystones-fabric-26.3-26.3.0.2.jar.pw.toml"
 hash = "fed9bced6a18f0c0fee5f57b1bb2cb7cc4b3c763d8fe52fcfc59031007f7a690"
 metafile = true
@@ -358,6 +418,11 @@ metafile = true
 [[files]]
 file = "mods/xaeroworldmap-fabric-26.3-1.47.2.jar.pw.toml"
 hash = "7cd182756891fe29a24a7b90bc719bc4530c6a9741451ed3c2f6cb404b7b0db9"
+metafile = true
+
+[[files]]
+file = "mods/yet_another_config_lib_v3-3.9.7+26.3-fabric.jar.pw.toml"
+hash = "1c14b36bf03a049eb08dbf1c56b6bf4ab81ad15a610964de8e2853fb4ef6475c"
 metafile = true
 
 [[files]]
